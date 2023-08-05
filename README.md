@@ -1,4 +1,5 @@
-Case Number Soju Game (Windows 32/64bit)
+## Case Number Soju Game (Windows 32/64bit)
+
 📝 2D top-down pixel / Visual Novel game.
 
 📆 2023 March released.
